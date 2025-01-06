@@ -21,8 +21,7 @@
     <button type="button" class="cancelbtn">Cancel</button>
     <span class="psw">Forgot <a href="#">password?</a></span>
   </div>
-</form>
-/* The Modal (background) */
+  /* The Modal (background) */
 .modal {
   display: none; /* Hidden by default */
   position: fixed; /* Stay in place */
@@ -78,3 +77,4 @@
   from {transform: scale(0)}
   to {transform: scale(1)}
 }
+</form>
