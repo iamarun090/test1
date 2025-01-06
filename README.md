@@ -1,7 +1,7 @@
 **LOGIN PAGE**
 <form action="action_page.php" method="post">
   <div class="imgcontainer">
-    <img src="img_avatar2.png" alt="Avatar" class="avatar">
+    <img src="https://www.google.com/imgres?q=login%20page%20background%20images&imgurl=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fthumbnails%2F011%2F635%2F825%2Fsmall%2Fabstract-square-interface-modern-background-concept-fingerprint-digital-scanning-visual-security-system-authentication-login-vector.jpg&imgrefurl=https%3A%2F%2Fwww.vecteezy.com%2Ffree-vector%2Flogin-background&docid=1JNyI1EeAT33kM&tbnid=RZA-PhOMZ3AOUM&vet=12ahUKEwis7c6y7eCKAxX5afUHHexyE6gQM3oECBwQAA..i&w=350&h=200&hcb=2&ved=2ahUKEwis7c6y7eCKAxX5afUHHexyE6gQM3oECBwQAA" alt="Avatar" class="avatar">
   </div>
 
   <div class="container">
